@@ -1,0 +1,6 @@
+{
+  "pages": [
+    { "title": "menu dropdown", "url": "/dropdown" },
+    { "title": "side bar", "url": "/sidebar" }
+  ]
+}
