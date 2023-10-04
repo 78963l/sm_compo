@@ -1,1 +1,1 @@
-# sm_compo_react
+# sm_compo
